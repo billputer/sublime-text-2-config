@@ -14,4 +14,10 @@ OS X
     mv Sublime\ Text\ 2 Sublime\ Text\ 2.bak
     ln -s ~/.sublime-text-2 Sublime\ Text\ 2
 
+Linux
+
+    mv ~/.config/sublime-text-2 ~/.config/sublime-text-2.bak
+    ln -s ~/.sublime-text-2 ~/.config/sublime-text-2
+
 Restart Sublime Text 2
+
